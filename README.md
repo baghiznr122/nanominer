@@ -1,0 +1,2 @@
+# nanominer
+1
